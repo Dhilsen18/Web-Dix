@@ -1,0 +1,40 @@
+{
+  "app": {
+    "brand": "DinoFYI"
+  },
+  "main": {
+    "aria": "Contenido principal"
+  },
+  "toolbar": {
+    "aria": "Barra superior",
+    "language": "Selector de idioma",
+    "logoError": "No se pudo cargar el logo."
+  },
+  "registry": {
+    "title": "Registro de clasificaciones",
+    "loading": "Cargando clasificaciones...",
+    "empty": "No se encontraron clasificaciones.",
+    "error": "El servicio de clasificaciones no está disponible en este momento."
+  },
+  "classification": {
+    "moreInformation": "Más información",
+    "shareInformation": "Compartir información",
+    "shareSuccess": "Enlace listo para compartir.",
+    "copySuccess": "URL copiada al portapapeles.",
+    "copyError": "No se pudo copiar la URL.",
+    "labels": {
+      "commonName": "Nombre común",
+      "parent": "Padre",
+      "speciesCount": "Cantidad de especies",
+      "description": "Descripción",
+      "metaDescription": "Meta descripción",
+      "createdAt": "Creado el",
+      "updatedAt": "Actualizado el"
+    }
+  },
+  "footer": {
+    "copyright": "Copyright © 2026 DinoFYI. All rights reserved.",
+    "developedBy": "Desarrollado por"
+  }
+}
+
